@@ -1,0 +1,23 @@
+{
+  "name": "sample_ci_cd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asfirahman16/sample_ci_cd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asfirahman16/sample_ci_cd/issues"
+  },
+  "homepage": "https://github.com/asfirahman16/sample_ci_cd#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
